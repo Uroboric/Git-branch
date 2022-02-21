@@ -1,0 +1,13 @@
+Project
+ID
+Summary
+Description
+Steps to reproduce
+Actual result
+Expected result
+Severity
+Priority
+Status
+Environment
+Author
+Assingned to
